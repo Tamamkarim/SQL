@@ -1,0 +1,21 @@
+
+=RANDBETWEEN(18264;32874)
+
+
+
+=RANDBETWEEN(160;200)
+
+
+
+
+
+BigData123,
+
+
+
+OPT_LOCAL_INFILE=1
+
+ 
+SET GLOBAL Local_infile=1;
+
+
